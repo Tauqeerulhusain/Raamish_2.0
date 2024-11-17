@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "245709487156",
+    "firebase_url": "https://raamishtest-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "raamishtest",
+    "storage_bucket": "raamishtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245709487156:android:ee0ba4dd3032a02f1e9e61",
+        "android_client_info": {
+          "package_name": "com.Raamish.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245709487156-qmkgk9k11nq27vie103sn1t6v54vu8or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU-j47RNyvhuDCJXeGIOzEAotI2JXn1CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245709487156-qmkgk9k11nq27vie103sn1t6v54vu8or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245709487156:android:f4b8bef5c14d164f1e9e61",
+        "android_client_info": {
+          "package_name": "com.clinic.raamish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245709487156-qmkgk9k11nq27vie103sn1t6v54vu8or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU-j47RNyvhuDCJXeGIOzEAotI2JXn1CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245709487156-qmkgk9k11nq27vie103sn1t6v54vu8or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

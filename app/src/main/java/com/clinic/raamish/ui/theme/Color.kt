@@ -1,0 +1,21 @@
+package com.clinic.raamish.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+
+val BackgroundLightGray = Color(0xfff1f1f1)
+val BackgroundGray = Color(0xffe6e6e6)
+val IconGray = Color(0xff737373)
+val HomePageBodyBrightYellow = Color(0xfffef8ba)
+val TitleBarDarkYellow = Color(0xfff5da65)
+val TextFieldBorderDarkYellow = Color(0xFFDAB100)
+val LightGray = Color(0x52C7C7C7)
+val LogoDarkGreen = Color(0xff51a600)
+val LogoLightGreen = Color(0xff8ede00)
