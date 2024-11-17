@@ -22,7 +22,6 @@ import javax.inject.Singleton
 class PatientApi @Inject constructor() {
     // Dev testing database
     var database = Firebase.database("https://raameshtest-default-rtdb.asia-southeast1.firebasedatabase.app/")
-//    var database = Firebase.database("https://raamesh-31e8b-default-rtdb.firebaseio.com/") // Production database
     var patientListFLow = MutableStateFlow<List<Patient>>(emptyList())
     var listRef: DatabaseReference
     var lastAddedPatientId = MutableStateFlow<Int>(-1)
